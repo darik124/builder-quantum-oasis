@@ -57,6 +57,15 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        atlas: {
+          navy: "#003366",
+          "navy-light": "#004080",
+          "navy-dark": "#002244",
+          blue: "#0066CC",
+          "blue-light": "#3399FF",
+          gray: "#333333",
+          "gray-light": "#666666",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
