@@ -26,147 +26,76 @@ export default function Educational() {
         <section className="py-16 px-6">
           <div className="container mx-auto max-w-6xl">
             <h2 className="text-4xl font-bold text-center mb-16">
-              Why Choose Atlas?
+              Our Regular Activities
             </h2>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div className="bg-gray-900 p-8 rounded-lg">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mb-6 flex items-center justify-center">
-                  <svg
-                    className="w-8 h-8 text-white"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
-                    />
-                  </svg>
+                  <span className="text-2xl">🧪</span>
                 </div>
-                <h3 className="text-xl font-bold mb-4">Hands-On Experience</h3>
+                <h3 className="text-xl font-bold mb-4">Demo Days</h3>
                 <p className="text-white/80">
-                  Work on real aerospace projects including satellite design,
-                  rocket propulsion systems, and space mission planning.
+                  Bi-weekly meetings where we explore cool physics experiments
+                  together - think liquid nitrogen, pendulums, and making
+                  circuits glow!
                 </p>
               </div>
 
               <div className="bg-gray-900 p-8 rounded-lg">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mb-6 flex items-center justify-center">
-                  <svg
-                    className="w-8 h-8 text-white"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
-                    />
-                  </svg>
+                  <span className="text-2xl">🎓</span>
                 </div>
-                <h3 className="text-xl font-bold mb-4">Expert Mentorship</h3>
+                <h3 className="text-xl font-bold mb-4">Study Groups</h3>
                 <p className="text-white/80">
-                  Learn from industry professionals and experienced researchers
-                  who guide your development and career growth.
+                  Struggling with physics homework? We've got your back! Regular
+                  study sessions where we tackle problems together and help each
+                  other succeed.
                 </p>
               </div>
 
               <div className="bg-gray-900 p-8 rounded-lg">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mb-6 flex items-center justify-center">
-                  <svg
-                    className="w-8 h-8 text-white"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M13 10V3L4 14h7v7l9-11h-7z"
-                    />
-                  </svg>
+                  <span className="text-2xl">🚌</span>
                 </div>
-                <h3 className="text-xl font-bold mb-4">
-                  Cutting-Edge Research
-                </h3>
+                <h3 className="text-xl font-bold mb-4">Field Trips</h3>
                 <p className="text-white/80">
-                  Participate in groundbreaking research projects that
-                  contribute to the advancement of aerospace technology.
+                  Planetarium visits, science museums, and maybe even
+                  observatories! We love taking our learning beyond the
+                  classroom.
                 </p>
               </div>
 
               <div className="bg-gray-900 p-8 rounded-lg">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mb-6 flex items-center justify-center">
-                  <svg
-                    className="w-8 h-8 text-white"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
-                    />
-                  </svg>
+                  <span className="text-2xl">🗣️</span>
                 </div>
-                <h3 className="text-xl font-bold mb-4">Industry Network</h3>
+                <h3 className="text-xl font-bold mb-4">Guest Speakers</h3>
                 <p className="text-white/80">
-                  Connect with aerospace companies, startups, and research
-                  institutions through our extensive professional network.
+                  We invite professors, local scientists, and industry
+                  professionals to share their stories and insights with us.
                 </p>
               </div>
 
               <div className="bg-gray-900 p-8 rounded-lg">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mb-6 flex items-center justify-center">
-                  <svg
-                    className="w-8 h-8 text-white"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
-                    />
-                  </svg>
+                  <span className="text-2xl">📚</span>
                 </div>
-                <h3 className="text-xl font-bold mb-4">Innovation Lab</h3>
+                <h3 className="text-xl font-bold mb-4">Science Café</h3>
                 <p className="text-white/80">
-                  Access state-of-the-art facilities and equipment for
-                  prototyping, testing, and developing your ideas.
+                  Casual discussions about anything physics-related over coffee.
+                  From black holes to quantum mechanics - all questions welcome!
                 </p>
               </div>
 
               <div className="bg-gray-900 p-8 rounded-lg">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mb-6 flex items-center justify-center">
-                  <svg
-                    className="w-8 h-8 text-white"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
-                    />
-                  </svg>
+                  <span className="text-2xl">📡</span>
                 </div>
-                <h3 className="text-xl font-bold mb-4">Flexible Learning</h3>
+                <h3 className="text-xl font-bold mb-4">Campus Outreach</h3>
                 <p className="text-white/80">
-                  Choose from workshops, seminars, and project-based learning
-                  that fits your schedule and interests.
+                  We set up tables on campus to share cool physics demos and get
+                  more students excited about science.
                 </p>
               </div>
             </div>
