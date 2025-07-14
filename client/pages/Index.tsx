@@ -127,7 +127,7 @@ export default function Index() {
       <section className="py-20 px-6 bg-gradient-to-b from-black to-gray-900">
         <div className="container mx-auto max-w-6xl">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-16">
-            WHAT WE OFFER
+            WHAT WE DO TOGETHER
           </h2>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -147,12 +147,11 @@ export default function Index() {
                   />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold mb-4">
-                Research & Development
-              </h3>
+              <h3 className="text-2xl font-bold mb-4">Cool Experiments</h3>
               <p className="text-white/70 leading-relaxed">
-                Cutting-edge research projects in aerospace engineering,
-                satellite technology, and space exploration systems.
+                From building simple circuits to exploring quantum concepts, we
+                love getting our hands dirty with science that makes you go
+                "wow!"
               </p>
             </div>
 
@@ -168,14 +167,15 @@ export default function Index() {
                     strokeLinecap="round"
                     strokeLinejoin="round"
                     strokeWidth={2}
-                    d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
+                    d="M12 3v1m0 1v8a5 5 0 105 5M6 3v2m0 0v5l5 5 5-5V5M6 5h8"
                   />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold mb-4">Educational Programs</h3>
+              <h3 className="text-2xl font-bold mb-4">Field Trips</h3>
               <p className="text-white/70 leading-relaxed">
-                Comprehensive workshops, seminars, and hands-on training
-                programs to advance your skills in physics and engineering.
+                Planetarium visits, science museums, observatory nights - we
+                explore science beyond the classroom and create memories
+                together.
               </p>
             </div>
 
@@ -195,10 +195,10 @@ export default function Index() {
                   />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold mb-4">Community Network</h3>
+              <h3 className="text-2xl font-bold mb-4">Study Squad</h3>
               <p className="text-white/70 leading-relaxed">
-                Connect with like-minded students, industry professionals, and
-                researchers passionate about aerospace and physics.
+                Homework help, study groups, and friendly discussions about
+                everything from homework to the meaning of the universe.
               </p>
             </div>
           </div>
