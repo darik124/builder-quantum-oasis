@@ -10,17 +10,18 @@ export default function Appointment() {
         <div className="container mx-auto px-6 max-w-4xl">
           <section className="py-20 text-center">
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
-              BOOK AN <span className="text-blue-400">APPOINTMENT</span>
+              JOIN <span className="text-blue-400">THE CLUB</span>
             </h1>
             <p className="text-xl text-white/80 leading-relaxed max-w-3xl mx-auto">
-              Schedule a meeting with our team to discuss your interests,
-              projects, or how you can get involved with Atlas.
+              Ready to explore physics with us? Let us know you're interested
+              and we'll keep you in the loop about our next meeting and
+              activities!
             </p>
           </section>
 
           <div className="bg-gray-900 p-8 rounded-lg max-w-2xl mx-auto">
             <h2 className="text-3xl font-bold mb-8 text-center">
-              Schedule Your Visit
+              Get Involved!
             </h2>
 
             <form className="space-y-6">
@@ -66,44 +67,30 @@ export default function Appointment() {
                 />
               </div>
 
-              <div className="grid md:grid-cols-2 gap-4">
-                <div>
-                  <label className="block text-sm font-medium mb-2">
-                    Preferred Date
-                  </label>
-                  <input
-                    type="date"
-                    className="w-full px-4 py-2 bg-black border border-white/20 rounded-md focus:border-blue-400 focus:outline-none"
-                  />
-                </div>
-
-                <div>
-                  <label className="block text-sm font-medium mb-2">
-                    Preferred Time
-                  </label>
-                  <select className="w-full px-4 py-2 bg-black border border-white/20 rounded-md focus:border-blue-400 focus:outline-none">
-                    <option value="">Select time</option>
-                    <option value="9:00">9:00 AM</option>
-                    <option value="10:00">10:00 AM</option>
-                    <option value="11:00">11:00 AM</option>
-                    <option value="14:00">2:00 PM</option>
-                    <option value="15:00">3:00 PM</option>
-                    <option value="16:00">4:00 PM</option>
-                  </select>
-                </div>
+              <div>
+                <label className="block text-sm font-medium mb-2">
+                  What's your major?
+                </label>
+                <input
+                  type="text"
+                  className="w-full px-4 py-2 bg-black border border-white/20 rounded-md focus:border-blue-400 focus:outline-none"
+                  placeholder="Physics, Engineering, Pre-Med, Art... anything!"
+                />
               </div>
 
               <div>
                 <label className="block text-sm font-medium mb-2">
-                  Purpose of Visit
+                  What interests you most about physics?
                 </label>
                 <select className="w-full px-4 py-2 bg-black border border-white/20 rounded-md focus:border-blue-400 focus:outline-none">
-                  <option value="">Select purpose</option>
-                  <option value="general">General Information</option>
-                  <option value="membership">Membership Inquiry</option>
-                  <option value="project">Project Collaboration</option>
-                  <option value="research">Research Opportunities</option>
-                  <option value="other">Other</option>
+                  <option value="">Pick what sounds coolest to you</option>
+                  <option value="astronomy">Astronomy & Space</option>
+                  <option value="quantum">Quantum Mechanics</option>
+                  <option value="experiments">Hands-on Experiments</option>
+                  <option value="studying">Study Groups & Help</option>
+                  <option value="friends">Meeting Science Friends</option>
+                  <option value="everything">Everything Physics!</option>
+                  <option value="curious">Just Curious</option>
                 </select>
               </div>
 
