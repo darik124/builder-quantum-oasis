@@ -29,15 +29,15 @@ export default function Index() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
-            EXPLORING THE
+            ADVANCING
             <br />
-            <span className="text-blue-400">WONDERS OF PHYSICS</span>
+            <span className="text-blue-400">PHYSICS EDUCATION</span>
           </h1>
 
           <p className="text-xl md:text-2xl text-white/80 mb-8 max-w-3xl mx-auto leading-relaxed">
-            We're a group of passionate students at Miami Dade College building
-            a community where curiosity meets discovery. Join us as we explore
-            the universe, from atoms to galaxies!
+            A student-led physics organization at Miami Dade College dedicated
+            to fostering academic excellence, scientific curiosity, and
+            collaborative learning in the physical sciences.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -83,29 +83,31 @@ export default function Index() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl md:text-5xl font-bold mb-6">
-                WHO WE ARE
+                OUR MISSION
               </h2>
               <p className="text-xl text-white/80 mb-8 leading-relaxed">
-                We're a student-led physics club at Miami Dade College where
-                curiosity drives everything we do. Whether you're fascinated by
-                black holes, love solving puzzles, or just want to meet other
-                science-minded students, you belong here!
+                Atlas Physics Club creates an inclusive academic environment
+                where students explore fundamental physics concepts, engage in
+                collaborative learning, and develop critical thinking skills
+                essential for scientific inquiry.
               </p>
               <div className="space-y-4">
                 <div className="flex items-center space-x-4">
                   <div className="w-3 h-3 bg-blue-400 rounded-full"></div>
                   <span className="text-lg">
-                    Open to ALL students (any major!)
+                    Open to students of all academic backgrounds
                   </span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <div className="w-3 h-3 bg-blue-400 rounded-full"></div>
-                  <span className="text-lg">Hands-on experiments & demos</span>
+                  <span className="text-lg">
+                    Hands-on laboratory demonstrations
+                  </span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <div className="w-3 h-3 bg-blue-400 rounded-full"></div>
                   <span className="text-lg">
-                    Fun field trips & guest speakers
+                    Educational outreach and guest lectures
                   </span>
                 </div>
               </div>
@@ -127,7 +129,7 @@ export default function Index() {
       <section className="py-20 px-6 bg-gradient-to-b from-black to-gray-900">
         <div className="container mx-auto max-w-6xl">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-16">
-            WHAT WE DO TOGETHER
+            OUR PROGRAMS
           </h2>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -147,11 +149,13 @@ export default function Index() {
                   />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold mb-4">Cool Experiments</h3>
+              <h3 className="text-2xl font-bold mb-4">
+                Laboratory Demonstrations
+              </h3>
               <p className="text-white/70 leading-relaxed">
-                From building simple circuits to exploring quantum concepts, we
-                love getting our hands dirty with science that makes you go
-                "wow!"
+                Interactive experiments covering fundamental physics principles,
+                from electromagnetic phenomena to quantum mechanics
+                applications.
               </p>
             </div>
 
@@ -171,11 +175,11 @@ export default function Index() {
                   />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold mb-4">Field Trips</h3>
+              <h3 className="text-2xl font-bold mb-4">Educational Outreach</h3>
               <p className="text-white/70 leading-relaxed">
-                Planetarium visits, science museums, observatory nights - we
-                explore science beyond the classroom and create memories
-                together.
+                Field trips to research facilities, planetariums, and science
+                museums to connect classroom theory with real-world
+                applications.
               </p>
             </div>
 
@@ -195,10 +199,11 @@ export default function Index() {
                   />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold mb-4">Study Squad</h3>
+              <h3 className="text-2xl font-bold mb-4">Academic Support</h3>
               <p className="text-white/70 leading-relaxed">
-                Homework help, study groups, and friendly discussions about
-                everything from homework to the meaning of the universe.
+                Peer-led study groups, problem-solving sessions, and
+                collaborative learning opportunities to enhance academic
+                performance.
               </p>
             </div>
           </div>
@@ -209,11 +214,12 @@ export default function Index() {
       <section className="py-20 px-6">
         <div className="container mx-auto max-w-4xl text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            READY TO JOIN THE ADVENTURE?
+            JOIN OUR ACADEMIC COMMUNITY
           </h2>
           <p className="text-xl text-white/80 mb-8 leading-relaxed">
-            Come hang out with us! Whether you're a physics major or just
-            curious about how the universe works, we'd love to meet you.
+            Whether you're pursuing physics or simply interested in scientific
+            exploration, we welcome students from all academic disciplines to
+            join our learning community.
           </p>
           <Button
             asChild
