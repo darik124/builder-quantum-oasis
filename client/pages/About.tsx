@@ -73,23 +73,23 @@ export default function About() {
 
               <div className="text-center">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold">E</span>
-                </div>
-                <h3 className="text-xl font-bold mb-3">Excellence</h3>
-                <p className="text-white/70">
-                  We strive for academic rigor and intellectual growth while
-                  maintaining a supportive learning environment for all members.
-                </p>
-              </div>
-
-              <div className="text-center">
-                <div className="w-16 h-16 bg-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center">
                   <span className="text-2xl font-bold">C</span>
                 </div>
                 <h3 className="text-xl font-bold mb-3">Collaboration</h3>
                 <p className="text-white/70">
                   Through peer learning and group problem-solving, we achieve
                   greater understanding than any individual could reach alone.
+                </p>
+              </div>
+
+              <div className="text-center">
+                <div className="w-16 h-16 bg-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center">
+                  <span className="text-2xl font-bold">E</span>
+                </div>
+                <h3 className="text-xl font-bold mb-3">Excellence</h3>
+                <p className="text-white/70">
+                  We strive for academic rigor and intellectual growth while
+                  maintaining a supportive learning environment for all members.
                 </p>
               </div>
             </div>
