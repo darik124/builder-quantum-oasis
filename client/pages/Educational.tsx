@@ -106,40 +106,40 @@ export default function Educational() {
         <section className="py-16 px-6 bg-gradient-to-b from-black to-gray-900">
           <div className="container mx-auto max-w-6xl">
             <h2 className="text-4xl font-bold text-center mb-16">
-              Our Programs
+              What We're Building Together
             </h2>
 
             <div className="space-y-12">
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div>
                   <h3 className="text-3xl font-bold mb-4 text-blue-400">
-                    Research Fellowship Program
+                    Physics Study Buddies
                   </h3>
                   <p className="text-white/80 mb-6 leading-relaxed">
-                    Join our elite research fellowship program where you'll work
-                    alongside professors and industry experts on cutting-edge
-                    aerospace projects. Fellows receive funding, mentorship, and
-                    the opportunity to publish their research.
+                    Our weekly study groups are already helping students tackle
+                    challenging physics problems together. We create a
+                    supportive environment where everyone feels comfortable
+                    asking questions and sharing knowledge.
                   </p>
                   <ul className="space-y-2 text-white/70">
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>12-month intensive research program</span>
+                      <span>Weekly study sessions</span>
                     </li>
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Monthly stipend and research funding</span>
+                      <span>Homework help and problem-solving</span>
                     </li>
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Conference presentation opportunities</span>
+                      <span>Test prep and review sessions</span>
                     </li>
                   </ul>
                 </div>
                 <div className="relative">
                   <img
-                    src="https://images.pexels.com/photos/806763/pexels-photo-806763.jpeg"
-                    alt="Research laboratory"
+                    src="https://images.pexels.com/photos/6208699/pexels-photo-6208699.jpeg"
+                    alt="Students working together in physics lab"
                     className="rounded-lg shadow-xl"
                   />
                   <div className="absolute inset-0 bg-gradient-to-tr from-blue-600/30 to-transparent rounded-lg"></div>
@@ -149,34 +149,33 @@ export default function Educational() {
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div className="order-2 md:order-1 relative">
                   <img
-                    src="https://images.pexels.com/photos/586056/pexels-photo-586056.jpeg"
-                    alt="Satellite technology"
+                    src="https://images.pexels.com/photos/3779214/pexels-photo-3779214.jpeg"
+                    alt="Planetarium visit"
                     className="rounded-lg shadow-xl"
                   />
                   <div className="absolute inset-0 bg-gradient-to-tr from-blue-600/30 to-transparent rounded-lg"></div>
                 </div>
                 <div className="order-1 md:order-2">
                   <h3 className="text-3xl font-bold mb-4 text-blue-400">
-                    Aerospace Bootcamp
+                    Adventure Squad
                   </h3>
                   <p className="text-white/80 mb-6 leading-relaxed">
-                    Intensive weekend bootcamps covering essential aerospace
-                    engineering topics, from orbital mechanics to spacecraft
-                    design. Perfect for students looking to quickly build
-                    foundational knowledge.
+                    We're planning amazing field trips to explore science in the
+                    real world. Our first planetarium visit was incredible, and
+                    we're already dreaming up our next adventure!
                   </p>
                   <ul className="space-y-2 text-white/70">
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Weekend intensive sessions</span>
+                      <span>Monthly group outings</span>
                     </li>
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Hands-on projects and simulations</span>
+                      <span>Science museums and planetariums</span>
                     </li>
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Certificate of completion</span>
+                      <span>Observatory nights and stargazing</span>
                     </li>
                   </ul>
                 </div>
