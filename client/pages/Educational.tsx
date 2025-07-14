@@ -188,24 +188,40 @@ export default function Educational() {
         <section className="py-16 px-6">
           <div className="container mx-auto max-w-6xl">
             <h2 className="text-4xl font-bold text-center mb-16">
-              Success Stories
+              What Our Members Say
             </h2>
 
             <div className="grid md:grid-cols-3 gap-8">
               <div className="bg-gray-900 p-6 rounded-lg">
                 <div className="flex items-center mb-4">
                   <div className="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center text-white font-bold">
-                    S
+                    A
                   </div>
                   <div className="ml-3">
-                    <h4 className="font-bold">Sarah Chen</h4>
-                    <p className="text-blue-400 text-sm">SpaceX Engineer</p>
+                    <h4 className="font-bold">Alex M.</h4>
+                    <p className="text-blue-400 text-sm">Physics Major</p>
                   </div>
                 </div>
                 <p className="text-white/80 text-sm">
-                  "Atlas gave me the practical experience and network I needed
-                  to land my dream job at SpaceX. The research projects were
-                  incredible."
+                  "I was struggling with physics until I found Atlas. The study
+                  groups made all the difference - I actually understand
+                  momentum now!"
+                </p>
+              </div>
+
+              <div className="bg-gray-900 p-6 rounded-lg">
+                <div className="flex items-center mb-4">
+                  <div className="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center text-white font-bold">
+                    J
+                  </div>
+                  <div className="ml-3">
+                    <h4 className="font-bold">Jordan K.</h4>
+                    <p className="text-blue-400 text-sm">Engineering Student</p>
+                  </div>
+                </div>
+                <p className="text-white/80 text-sm">
+                  "Even though I'm not a physics major, everyone welcomed me
+                  with open arms. The planetarium trip was absolutely amazing!"
                 </p>
               </div>
 
@@ -215,30 +231,13 @@ export default function Educational() {
                     M
                   </div>
                   <div className="ml-3">
-                    <h4 className="font-bold">Marcus Rodriguez</h4>
-                    <p className="text-blue-400 text-sm">NASA Intern</p>
+                    <h4 className="font-bold">Maria S.</h4>
+                    <p className="text-blue-400 text-sm">Pre-Med Student</p>
                   </div>
                 </div>
                 <p className="text-white/80 text-sm">
-                  "The mentorship and hands-on projects at Atlas prepared me
-                  perfectly for my NASA internship. I couldn't have done it
-                  without them."
-                </p>
-              </div>
-
-              <div className="bg-gray-900 p-6 rounded-lg">
-                <div className="flex items-center mb-4">
-                  <div className="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center text-white font-bold">
-                    A
-                  </div>
-                  <div className="ml-3">
-                    <h4 className="font-bold">Aisha Patel</h4>
-                    <p className="text-blue-400 text-sm">PhD Candidate</p>
-                  </div>
-                </div>
-                <p className="text-white/80 text-sm">
-                  "Atlas research fellowship led to my PhD acceptance at MIT.
-                  The quality of research and mentorship is unmatched."
+                  "Atlas helped me see how physics connects to everything, even
+                  medicine. Plus, I made some of my best friends here!"
                 </p>
               </div>
             </div>
