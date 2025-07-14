@@ -6,10 +6,10 @@ export default function Navigation() {
 
   const navItems = [
     { path: "/", label: "Home" },
-    { path: "/about", label: "About" },
-    { path: "/educational", label: "Educational Value" },
+    { path: "/about", label: "About Us" },
+    { path: "/educational", label: "What We Do" },
     { path: "/contact", label: "Contact" },
-    { path: "/appointment", label: "Appointment" },
+    { path: "/appointment", label: "Join Us" },
   ];
 
   return (
@@ -23,7 +23,7 @@ export default function Navigation() {
               className="h-8 w-8"
             />
             <span className="text-white text-xl font-bold tracking-wider">
-              ATLAS
+              ATLAS PHYSICS
             </span>
           </Link>
 
@@ -48,7 +48,7 @@ export default function Navigation() {
             variant="outline"
             className="hidden md:flex bg-transparent border-white/30 text-white hover:bg-white hover:text-black transition-all duration-300"
           >
-            <Link to="/contact">GET STARTED</Link>
+            <Link to="/appointment">JOIN THE CLUB</Link>
           </Button>
 
           <Button variant="ghost" className="md:hidden text-white" size="sm">
