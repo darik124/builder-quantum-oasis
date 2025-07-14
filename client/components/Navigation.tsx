@@ -18,7 +18,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-3">
             <img
-              src="https://cdn.builder.io/api/v1/assets/782e1af4705f41fea76d70bb866118fc/atlas-logo-9d2766?format=webp&width=800"
+              src="https://cdn.builder.io/api/v1/image/assets%2F782e1af4705f41fea76d70bb866118fc%2Fb0a49234da7d4de9a34423f23726df4d?format=webp&width=800"
               alt="Atlas Logo"
               className="h-12 w-12"
             />

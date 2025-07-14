@@ -22,7 +22,7 @@ export default function Index() {
         <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
           <div className="mb-8">
             <img
-              src="https://cdn.builder.io/api/v1/assets/782e1af4705f41fea76d70bb866118fc/atlas-logo-9d2766?format=webp&width=800"
+              src="https://cdn.builder.io/api/v1/image/assets%2F782e1af4705f41fea76d70bb866118fc%2Fb0a49234da7d4de9a34423f23726df4d?format=webp&width=800"
               alt="Atlas Logo"
               className="h-40 w-40 mx-auto mb-6"
             />
@@ -237,7 +237,7 @@ export default function Index() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-3 mb-4 md:mb-0">
               <img
-                src="https://cdn.builder.io/api/v1/assets/782e1af4705f41fea76d70bb866118fc/atlas-logo-9d2766?format=webp&width=800"
+                src="https://cdn.builder.io/api/v1/image/assets%2F782e1af4705f41fea76d70bb866118fc%2Fb0a49234da7d4de9a34423f23726df4d?format=webp&width=800"
                 alt="Atlas Logo"
                 className="h-10 w-10"
               />
