@@ -24,7 +24,7 @@ export default function Index() {
             <img
               src="https://cdn.builder.io/api/v1/assets/782e1af4705f41fea76d70bb866118fc/atlas-logo-9d2766?format=webp&width=800"
               alt="Atlas Logo"
-              className="h-32 w-32 mx-auto mb-6"
+              className="h-40 w-40 mx-auto mb-6"
             />
           </div>
 
@@ -239,7 +239,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/assets/782e1af4705f41fea76d70bb866118fc/atlas-logo-9d2766?format=webp&width=800"
                 alt="Atlas Logo"
-                className="h-8 w-8"
+                className="h-10 w-10"
               />
               <span className="text-white text-xl font-bold tracking-wider">
                 ATLAS PHYSICS

@@ -20,7 +20,7 @@ export default function Navigation() {
             <img
               src="https://cdn.builder.io/api/v1/assets/782e1af4705f41fea76d70bb866118fc/atlas-logo-9d2766?format=webp&width=800"
               alt="Atlas Logo"
-              className="h-8 w-8"
+              className="h-12 w-12"
             />
             <span className="text-white text-xl font-bold tracking-wider">
               ATLAS PHYSICS
