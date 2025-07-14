@@ -83,36 +83,38 @@ export default function Index() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl md:text-5xl font-bold mb-6">
-                OUR MISSION
+                WHO WE ARE
               </h2>
               <p className="text-xl text-white/80 mb-8 leading-relaxed">
-                To foster innovation in aerospace engineering and physics,
-                preparing the next generation of scientists and engineers to
-                tackle humanity's greatest challenges in space exploration and
-                beyond.
+                We're a student-led physics club at Miami Dade College where
+                curiosity drives everything we do. Whether you're fascinated by
+                black holes, love solving puzzles, or just want to meet other
+                science-minded students, you belong here!
               </p>
               <div className="space-y-4">
                 <div className="flex items-center space-x-4">
                   <div className="w-3 h-3 bg-blue-400 rounded-full"></div>
                   <span className="text-lg">
-                    Aerospace Engineering Excellence
+                    Open to ALL students (any major!)
                   </span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <div className="w-3 h-3 bg-blue-400 rounded-full"></div>
-                  <span className="text-lg">Physics Research & Innovation</span>
+                  <span className="text-lg">Hands-on experiments & demos</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <div className="w-3 h-3 bg-blue-400 rounded-full"></div>
-                  <span className="text-lg">Student Development Programs</span>
+                  <span className="text-lg">
+                    Fun field trips & guest speakers
+                  </span>
                 </div>
               </div>
             </div>
 
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/586056/pexels-photo-586056.jpeg"
-                alt="Satellite in orbit"
+                src="https://images.pexels.com/photos/6208725/pexels-photo-6208725.jpeg"
+                alt="Students working together in physics lab"
                 className="rounded-lg shadow-2xl"
               />
               <div className="absolute inset-0 bg-gradient-to-tr from-blue-600/20 to-transparent rounded-lg"></div>
