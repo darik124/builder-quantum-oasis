@@ -55,38 +55,40 @@ export default function About() {
 
           {/* Values */}
           <section className="py-16">
-            <h2 className="text-4xl font-bold text-center mb-12">Our Values</h2>
+            <h2 className="text-4xl font-bold text-center mb-12">
+              What We're About
+            </h2>
             <div className="grid md:grid-cols-3 gap-8">
               <div className="text-center">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold">I</span>
+                  <span className="text-2xl font-bold">🤝</span>
                 </div>
-                <h3 className="text-xl font-bold mb-3">Innovation</h3>
+                <h3 className="text-xl font-bold mb-3">Inclusion</h3>
                 <p className="text-white/70">
-                  Constantly pushing boundaries and exploring new possibilities
-                  in aerospace technology.
+                  Everyone belongs here, regardless of your major, background,
+                  or current level of physics knowledge.
                 </p>
               </div>
 
               <div className="text-center">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold">C</span>
+                  <span className="text-2xl font-bold">🔍</span>
                 </div>
-                <h3 className="text-xl font-bold mb-3">Collaboration</h3>
+                <h3 className="text-xl font-bold mb-3">Curiosity</h3>
                 <p className="text-white/70">
-                  Working together to achieve goals that no individual could
-                  accomplish alone.
+                  We believe the best questions start with "what if?" and "why
+                  does that happen?"
                 </p>
               </div>
 
               <div className="text-center">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold">E</span>
+                  <span className="text-2xl font-bold">🎉</span>
                 </div>
-                <h3 className="text-xl font-bold mb-3">Excellence</h3>
+                <h3 className="text-xl font-bold mb-3">Fun</h3>
                 <p className="text-white/70">
-                  Striving for the highest standards in everything we do, from
-                  research to education.
+                  Learning physics should be exciting! We make science engaging
+                  through hands-on activities and friendship.
                 </p>
               </div>
             </div>
@@ -94,16 +96,21 @@ export default function About() {
 
           {/* History */}
           <section className="py-16">
-            <h2 className="text-4xl font-bold text-center mb-12">Our Story</h2>
+            <h2 className="text-4xl font-bold text-center mb-12">
+              How We Started
+            </h2>
             <div className="space-y-8">
               <div className="flex items-start space-x-6">
                 <div className="w-4 h-4 bg-blue-400 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">2020 - Foundation</h3>
+                  <h3 className="text-xl font-bold mb-2">
+                    Fall 2024 - The Spark
+                  </h3>
                   <p className="text-white/80">
-                    Atlas was founded by a group of passionate physics and
-                    engineering students who shared a vision of advancing
-                    aerospace technology and education.
+                    A few physics students at Miami Dade College realized they
+                    wanted more than just classroom learning. They dreamed of a
+                    place where students could explore physics together and
+                    support each other's journey.
                   </p>
                 </div>
               </div>
@@ -112,12 +119,12 @@ export default function About() {
                 <div className="w-4 h-4 bg-blue-400 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
                   <h3 className="text-xl font-bold mb-2">
-                    2021 - First Projects
+                    Winter 2024 - Official Launch
                   </h3>
                   <p className="text-white/80">
-                    Launched our first research projects in satellite technology
-                    and began organizing educational workshops for fellow
-                    students.
+                    Atlas Physics Club was officially born! We started meeting
+                    regularly, planning our first activities, and spreading the
+                    word around campus.
                   </p>
                 </div>
               </div>
@@ -125,10 +132,13 @@ export default function About() {
               <div className="flex items-start space-x-6">
                 <div className="w-4 h-4 bg-blue-400 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">2022 - Growth</h3>
+                  <h3 className="text-xl font-bold mb-2">
+                    Spring 2025 - Growing Together
+                  </h3>
                   <p className="text-white/80">
-                    Expanded our membership and established partnerships with
-                    aerospace industry leaders and research institutions.
+                    We're just getting started! Our goal is to welcome new
+                    members, organize cool events, and build the physics
+                    community we've always wanted at MDC.
                   </p>
                 </div>
               </div>
@@ -136,11 +146,13 @@ export default function About() {
               <div className="flex items-start space-x-6">
                 <div className="w-4 h-4 bg-blue-400 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">2024 - Innovation</h3>
+                  <h3 className="text-xl font-bold mb-2">
+                    The Future - Who Knows?
+                  </h3>
                   <p className="text-white/80">
-                    Continuing to lead in aerospace research and education,
-                    preparing for our next chapter of groundbreaking projects
-                    and achievements.
+                    Maybe we'll organize amazing field trips, invite incredible
+                    guest speakers, or start research projects. The sky's the
+                    limit when passionate students come together!
                   </p>
                 </div>
               </div>
