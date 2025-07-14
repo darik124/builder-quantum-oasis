@@ -61,34 +61,35 @@ export default function About() {
             <div className="grid md:grid-cols-3 gap-8">
               <div className="text-center">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold">🤝</span>
+                  <span className="text-2xl font-bold">I</span>
                 </div>
                 <h3 className="text-xl font-bold mb-3">Inclusion</h3>
                 <p className="text-white/70">
-                  Everyone belongs here, regardless of your major, background,
-                  or current level of physics knowledge.
+                  We welcome students from all academic backgrounds and
+                  experience levels, fostering an environment where everyone can
+                  contribute and learn.
                 </p>
               </div>
 
               <div className="text-center">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold">🔍</span>
+                  <span className="text-2xl font-bold">E</span>
                 </div>
-                <h3 className="text-xl font-bold mb-3">Curiosity</h3>
+                <h3 className="text-xl font-bold mb-3">Excellence</h3>
                 <p className="text-white/70">
-                  We believe the best questions start with "what if?" and "why
-                  does that happen?"
+                  We strive for academic rigor and intellectual growth while
+                  maintaining a supportive learning environment for all members.
                 </p>
               </div>
 
               <div className="text-center">
                 <div className="w-16 h-16 bg-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-bold">🎉</span>
+                  <span className="text-2xl font-bold">C</span>
                 </div>
-                <h3 className="text-xl font-bold mb-3">Fun</h3>
+                <h3 className="text-xl font-bold mb-3">Collaboration</h3>
                 <p className="text-white/70">
-                  Learning physics should be exciting! We make science engaging
-                  through hands-on activities and friendship.
+                  Through peer learning and group problem-solving, we achieve
+                  greater understanding than any individual could reach alone.
                 </p>
               </div>
             </div>
