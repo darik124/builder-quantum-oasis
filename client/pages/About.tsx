@@ -98,20 +98,21 @@ export default function About() {
           {/* History */}
           <section className="py-16">
             <h2 className="text-4xl font-bold text-center mb-12">
-              How We Started
+              Our Foundation
             </h2>
             <div className="space-y-8">
               <div className="flex items-start space-x-6">
                 <div className="w-4 h-4 bg-blue-400 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
                   <h3 className="text-xl font-bold mb-2">
-                    Fall 2024 - The Spark
+                    Fall 2024 - Vision & Initiative
                   </h3>
                   <p className="text-white/80">
-                    A few physics students at Miami Dade College realized they
-                    wanted more than just classroom learning. They dreamed of a
-                    place where students could explore physics together and
-                    support each other's journey.
+                    Driven by a shared passion for physics education, a group of
+                    dedicated students at Miami Dade College recognized the need
+                    for enhanced collaborative learning opportunities beyond
+                    traditional classroom instruction. This vision sparked the
+                    formation of our academic community.
                   </p>
                 </div>
               </div>
@@ -120,12 +121,14 @@ export default function About() {
                 <div className="w-4 h-4 bg-blue-400 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
                   <h3 className="text-xl font-bold mb-2">
-                    Winter 2024 - Official Launch
+                    Winter 2024 - Organizational Establishment
                   </h3>
                   <p className="text-white/80">
-                    Atlas Physics Club was officially born! We started meeting
-                    regularly, planning our first activities, and spreading the
-                    word around campus.
+                    Atlas Physics Club officially launched with structured
+                    programming and academic objectives. Our founding members
+                    established regular meeting schedules, developed our core
+                    mission, and began building our campus presence through
+                    targeted outreach initiatives.
                   </p>
                 </div>
               </div>
@@ -134,12 +137,13 @@ export default function About() {
                 <div className="w-4 h-4 bg-blue-400 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
                   <h3 className="text-xl font-bold mb-2">
-                    Spring 2025 - Growing Together
+                    Spring 2025 - Expansion & Growth
                   </h3>
                   <p className="text-white/80">
-                    We're just getting started! Our goal is to welcome new
-                    members, organize cool events, and build the physics
-                    community we've always wanted at MDC.
+                    Building on our strong foundation, we are actively expanding
+                    our membership base and diversifying our academic
+                    programming. Our focus remains on fostering the inclusive
+                    physics community that Miami Dade College students deserve.
                   </p>
                 </div>
               </div>
@@ -148,12 +152,14 @@ export default function About() {
                 <div className="w-4 h-4 bg-blue-400 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
                   <h3 className="text-xl font-bold mb-2">
-                    The Future - Who Knows?
+                    Future Vision - Unlimited Potential
                   </h3>
                   <p className="text-white/80">
-                    Maybe we'll organize amazing field trips, invite incredible
-                    guest speakers, or start research projects. The sky's the
-                    limit when passionate students come together!
+                    Our ambitious plans include advanced research
+                    collaborations, expanded educational partnerships, and
+                    innovative programming that will establish Atlas as a
+                    premier physics organization. When passionate students unite
+                    with purpose, extraordinary achievements become possible.
                   </p>
                 </div>
               </div>
