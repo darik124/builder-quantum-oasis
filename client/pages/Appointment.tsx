@@ -96,42 +96,40 @@ export default function Appointment() {
 
               <div>
                 <label className="block text-sm font-medium mb-2">
-                  Additional Notes
+                  Anything else you'd like us to know?
                 </label>
                 <textarea
                   rows={4}
                   className="w-full px-4 py-2 bg-black border border-white/20 rounded-md focus:border-blue-400 focus:outline-none resize-none"
-                  placeholder="Tell us more about what you'd like to discuss..."
+                  placeholder="Questions? Specific interests? Just say hi! (Optional)"
                 ></textarea>
               </div>
 
               <Button className="w-full bg-blue-600 hover:bg-blue-700 text-white text-lg py-3">
-                Schedule Appointment
+                Count Me In!
               </Button>
             </form>
 
             <div className="mt-8 p-6 bg-black/50 rounded-lg">
               <h3 className="text-lg font-semibold mb-3 text-blue-400">
-                What to Expect
+                What Happens Next?
               </h3>
               <ul className="space-y-2 text-white/80">
                 <li className="flex items-start space-x-2">
                   <span className="text-blue-400 mt-1">•</span>
-                  <span>Tour of our facilities and laboratories</span>
+                  <span>We'll send you info about our next meeting</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <span className="text-blue-400 mt-1">•</span>
-                  <span>Discussion of current projects and opportunities</span>
+                  <span>Join our group chat to stay in the loop</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <span className="text-blue-400 mt-1">•</span>
-                  <span>
-                    Information about membership and how to get involved
-                  </span>
+                  <span>No pressure - come check us out when you can!</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <span className="text-blue-400 mt-1">•</span>
-                  <span>Q&A session with our team members</span>
+                  <span>Meet other students who love science</span>
                 </li>
               </ul>
             </div>
