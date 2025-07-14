@@ -12,13 +12,12 @@ export default function Educational() {
         <section className="py-20 px-6">
           <div className="container mx-auto max-w-6xl text-center">
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
-              EDUCATIONAL <span className="text-blue-400">VALUE</span>
+              WHAT WE <span className="text-blue-400">DO</span>
             </h1>
             <p className="text-xl text-white/80 leading-relaxed max-w-4xl mx-auto">
-              Atlas provides unparalleled educational opportunities that bridge
-              the gap between theoretical knowledge and real-world aerospace
-              applications, preparing students for successful careers in the
-              space industry.
+              We're all about making physics fun, accessible, and exciting! From
+              hands-on experiments to epic field trips, here's how we explore
+              the universe together.
             </p>
           </div>
         </section>
