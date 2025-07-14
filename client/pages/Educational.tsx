@@ -179,33 +179,34 @@ export default function Educational() {
         <section className="py-16 px-6 bg-gradient-to-b from-black to-gray-900">
           <div className="container mx-auto max-w-6xl">
             <h2 className="text-4xl font-bold text-center mb-16">
-              What We're Building Together
+              Academic Programs & Initiatives
             </h2>
 
             <div className="space-y-12">
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div>
                   <h3 className="text-3xl font-bold mb-4 text-blue-400">
-                    Physics Study Buddies
+                    Peer Learning Initiative
                   </h3>
                   <p className="text-white/80 mb-6 leading-relaxed">
-                    Our weekly study groups are already helping students tackle
-                    challenging physics problems together. We create a
-                    supportive environment where everyone feels comfortable
-                    asking questions and sharing knowledge.
+                    Our structured study groups provide collaborative learning
+                    opportunities where students work together to master
+                    challenging physics concepts. These sessions foster academic
+                    excellence through peer-to-peer knowledge sharing and guided
+                    problem-solving methodologies.
                   </p>
                   <ul className="space-y-2 text-white/70">
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Weekly study sessions</span>
+                      <span>Weekly collaborative study sessions</span>
                     </li>
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Homework help and problem-solving</span>
+                      <span>Problem-solving workshops and tutorials</span>
                     </li>
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Test prep and review sessions</span>
+                      <span>Exam preparation and review programs</span>
                     </li>
                   </ul>
                 </div>
@@ -223,32 +224,35 @@ export default function Educational() {
                 <div className="order-2 md:order-1 relative">
                   <img
                     src="https://images.pexels.com/photos/3779214/pexels-photo-3779214.jpeg"
-                    alt="Planetarium visit"
+                    alt="Planetarium educational visit"
                     className="rounded-lg shadow-xl"
                   />
                   <div className="absolute inset-0 bg-gradient-to-tr from-blue-600/30 to-transparent rounded-lg"></div>
                 </div>
                 <div className="order-1 md:order-2">
                   <h3 className="text-3xl font-bold mb-4 text-blue-400">
-                    Adventure Squad
+                    Educational Outreach Program
                   </h3>
                   <p className="text-white/80 mb-6 leading-relaxed">
-                    We're planning amazing field trips to explore science in the
-                    real world. Our first planetarium visit was incredible, and
-                    we're already dreaming up our next adventure!
+                    Our comprehensive field study program connects theoretical
+                    classroom knowledge with practical scientific applications
+                    through organized visits to research facilities, museums,
+                    and observatories.
                   </p>
                   <ul className="space-y-2 text-white/70">
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Monthly group outings</span>
+                      <span>Monthly educational field studies</span>
                     </li>
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Science museums and planetariums</span>
+                      <span>Science museums and planetarium visits</span>
                     </li>
                     <li className="flex items-center space-x-2">
                       <span className="text-blue-400">•</span>
-                      <span>Observatory nights and stargazing</span>
+                      <span>
+                        Observatory research and astronomical observation
+                      </span>
                     </li>
                   </ul>
                 </div>
