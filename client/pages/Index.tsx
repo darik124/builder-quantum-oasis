@@ -13,7 +13,7 @@ export default function Index() {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage:
-              "url('https://images.pexels.com/photos/60130/pexels-photo-60130.jpeg')",
+              "url('https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg')",
           }}
         >
           <div className="absolute inset-0 bg-black/60" />
@@ -29,15 +29,15 @@ export default function Index() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
-            ADVANCING THE FUTURE
+            EXPLORING THE
             <br />
-            <span className="text-blue-400">OF AEROSPACE</span>
+            <span className="text-blue-400">WONDERS OF PHYSICS</span>
           </h1>
 
           <p className="text-xl md:text-2xl text-white/80 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Atlas is a student organization dedicated to pushing the boundaries
-            of physics and engineering, with a focus on aerospace innovation and
-            exploration.
+            We're a group of passionate students at Miami Dade College building
+            a community where curiosity meets discovery. Join us as we explore
+            the universe, from atoms to galaxies!
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -46,7 +46,7 @@ export default function Index() {
               size="lg"
               className="bg-white text-black hover:bg-white/90 text-lg px-8 py-6"
             >
-              <Link to="/about">LEARN MORE</Link>
+              <Link to="/about">MEET THE CLUB</Link>
             </Button>
 
             <Button
@@ -55,7 +55,7 @@ export default function Index() {
               size="lg"
               className="border-white/30 text-white hover:bg-white hover:text-black text-lg px-8 py-6"
             >
-              <Link to="/contact">JOIN US</Link>
+              <Link to="/appointment">GET INVOLVED</Link>
             </Button>
           </div>
         </div>
