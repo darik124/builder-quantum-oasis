@@ -10,12 +10,12 @@ export default function About() {
           {/* Hero Section */}
           <section className="py-20 text-center">
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
-              ABOUT <span className="text-blue-400">ATLAS</span>
+              ABOUT <span className="text-blue-400">ATLAS PHYSICS</span>
             </h1>
             <p className="text-xl text-white/80 leading-relaxed max-w-3xl mx-auto">
-              Atlas is a student-driven organization at the forefront of
-              aerospace engineering and physics research, dedicated to fostering
-              innovation and preparing the next generation of space explorers.
+              We're a brand new, student-led physics club at Miami Dade College
+              where passionate learners come together to explore the amazing
+              world of science, support each other, and have fun doing it!
             </p>
           </section>
 
@@ -26,14 +26,14 @@ export default function About() {
                 Our Mission
               </h2>
               <p className="text-white/80 leading-relaxed mb-6">
-                To advance the frontiers of aerospace engineering and physics
-                through innovative research, hands-on learning experiences, and
-                collaborative projects that prepare students for careers in the
-                space industry.
+                To create a welcoming space where students from all backgrounds
+                can explore physics together, support each other's learning, and
+                discover the joy of understanding how our universe works.
               </p>
               <p className="text-white/80 leading-relaxed">
-                We believe in pushing the boundaries of what's possible and
-                inspiring the next generation to reach for the stars.
+                We believe that science is for everyone, and that the best
+                learning happens when curious minds come together to ask
+                questions and seek answers.
               </p>
             </div>
 
@@ -42,13 +42,13 @@ export default function About() {
                 Our Vision
               </h2>
               <p className="text-white/80 leading-relaxed mb-6">
-                To be the leading student organization in aerospace innovation,
-                contributing to humanity's understanding of space and developing
-                technologies that will enable future space exploration missions.
+                To grow into a thriving community that not only helps students
+                succeed in their physics courses but also inspires a lifelong
+                love of learning and scientific thinking.
               </p>
               <p className="text-white/80 leading-relaxed">
-                We envision a future where our members become the engineers,
-                scientists, and leaders who will make life multiplanetary.
+                We dream of becoming the go-to place on campus for anyone who's
+                ever looked up at the stars and wondered "how does that work?"
               </p>
             </div>
           </section>
