@@ -209,18 +209,18 @@ export default function Index() {
       <section className="py-20 px-6">
         <div className="container mx-auto max-w-4xl text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            READY TO REACH FOR THE STARS?
+            READY TO JOIN THE ADVENTURE?
           </h2>
           <p className="text-xl text-white/80 mb-8 leading-relaxed">
-            Join Atlas and be part of the next generation of aerospace
-            innovators.
+            Come hang out with us! Whether you're a physics major or just
+            curious about how the universe works, we'd love to meet you.
           </p>
           <Button
             asChild
             size="lg"
             className="bg-blue-600 hover:bg-blue-700 text-white text-lg px-8 py-6"
           >
-            <Link to="/contact">GET STARTED TODAY</Link>
+            <Link to="/appointment">JOIN THE CLUB</Link>
           </Button>
         </div>
       </section>
@@ -236,7 +236,7 @@ export default function Index() {
                 className="h-8 w-8"
               />
               <span className="text-white text-xl font-bold tracking-wider">
-                ATLAS
+                ATLAS PHYSICS
               </span>
             </div>
 
@@ -245,7 +245,7 @@ export default function Index() {
                 to="/about"
                 className="text-white/60 hover:text-white transition-colors"
               >
-                About
+                About Us
               </Link>
               <Link
                 to="/contact"
@@ -257,15 +257,15 @@ export default function Index() {
                 to="/educational"
                 className="text-white/60 hover:text-white transition-colors"
               >
-                Educational
+                What We Do
               </Link>
             </div>
           </div>
 
           <div className="mt-8 pt-8 border-t border-white/10 text-center text-white/60">
             <p>
-              &copy; 2024 Atlas Student Organization. Advancing aerospace
-              innovation.
+              &copy; 2024 Atlas Physics Club at Miami Dade College. Exploring
+              science together!
             </p>
           </div>
         </div>
