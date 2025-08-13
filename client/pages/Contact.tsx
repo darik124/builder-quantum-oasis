@@ -26,7 +26,6 @@ export default function Contact() {
                   <h3 className="text-lg font-semibold mb-2 text-blue-400">
                     Email
                   </h3>
-                  <p className="text-white/80">info@atlasaerospace.org</p>
                   <p className="text-white/80">atlasphysicsclub@gmail.com</p>
                 </div>
 
